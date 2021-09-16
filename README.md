@@ -2,7 +2,7 @@
 
 ## Fiture 
 
-- Popup ./assets/popup-by-teeres
+- Popup
 - Create level
 - Manager (coins, score, mission, unity ad, admob, time)
 - Loader
