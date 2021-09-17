@@ -1,7 +1,13 @@
+<<<<<<< HEAD
 # ## SHORTCUT 
 
 - [Assets](https://github.com/hajir09/UNITY-TOOLS/tree/main/Assets)
 - [Directory template](https://github.com/hajir09/UNITY-TOOLS/tree/main/Assets/Teeres%20Plugin/Directory%20template%20teeres)
+=======
+## SHORTCUT 
+
+- [Directory template]()
+>>>>>>> b150662e7024cd3320fba77f64aa45cfc0a14bdd
 - [Popup]()
 - [Create level]()
 - [Manager]() ( [coins](), [score](), [mission](), [unity ad](), [admob](), [time]() )
