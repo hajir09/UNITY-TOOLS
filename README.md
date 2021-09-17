@@ -3,9 +3,9 @@
 ### Shortcut
 [popup](https://popup.com)
 
-## Fiture 
+## Fiture  
 
-- [Directory template]()
+- [Directory template](https://github.com/hajir09/UNITY-TOOLS/tree/main/Assets/Teeres%20Plugin/Directory%20template%20teeres)
 - [Popup]()
 - [Create level]()
 - [Manager]() ( [coins](), [score](), [mission](), [unity ad](), [admob](), [time]() )
@@ -20,5 +20,6 @@
 - [Player (auto run, identity)]()
 - [Canvas Set]() (layout, scroll view, [text](), [ui](), [button](), [font]())
 - [Camera Set (camera follow)]()
+
  
 > NB : DETAIL PER TOOL ADA DI README PER TOOL  
