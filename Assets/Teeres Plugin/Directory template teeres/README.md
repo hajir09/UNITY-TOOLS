@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## SHORTCUT 
 
 - [Assets](https://github.com/hajir09/UNITY-TOOLS/tree/main/Assets)
