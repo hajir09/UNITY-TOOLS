@@ -1,14 +1,8 @@
 # UNITY-TOOLS
 
-<<<<<<< HEAD
-### Shortcut
-[popup](https://popup.com)
+## Fiture
 
-## Fiture  
-=======
-## Fiture 
->>>>>>> b150662e7024cd3320fba77f64aa45cfc0a14bdd
-
+- [popup](https://popup.com)
 - [Directory template](https://github.com/hajir09/UNITY-TOOLS/tree/main/Assets/Teeres%20Plugin/Directory%20template%20teeres)
 - [Popup]()
 - [Create level]()
